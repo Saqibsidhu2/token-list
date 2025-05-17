@@ -1,0 +1,15 @@
+{
+  "chainId": 101,
+  "address": "B5agshqSTEB8uhoXa2FrpTv8ewhYrtfo63z5mbmLxJJa",
+  "symbol": "GLUB",
+  "name": "GLUB Jelly Fish",
+  "decimals": 9,
+  "logoURI": "https://yourdomain.com/glub_logo.png",
+  "tags": ["meme", "community"],
+  "extensions": {
+    "website": "https://glubmeme.xyz",
+    "twitter": "https://x.com/glubmeme",
+    "telegram": "https://t.me/glubmemeportal",
+    "explorer": "https://solscan.io/token/B5agshqSTEB8uhoXa2FrpTv8ewhYrtfo63z5mbmLxJJa"
+  }
+}
